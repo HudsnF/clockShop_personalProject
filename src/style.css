@@ -38,12 +38,6 @@ header {
     height: 10%;
 }
 
-header p{
-    display: flex;
-    justify-content: center;
-    align-items: center;
-}
-
 header p img {
     width: 40px;
 }
