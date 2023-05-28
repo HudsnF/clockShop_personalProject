@@ -28,7 +28,6 @@ body {
 
 .left {
     width: 55%;
-
 }
 
 header {
@@ -37,7 +36,12 @@ header {
     justify-content: space-between;
     padding: 2em;
     height: 10%;
-    
+}
+
+header p{
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 header p img {
